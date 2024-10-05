@@ -1,0 +1,83 @@
+body section {
+  background-color: #0B192C !important;
+}
+
+.nav-island {
+  background-color: #4682B4 !important;
+}
+
+.static-txt {
+  font-size: 10vh;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 600;
+  color: #E1341E;
+}
+
+
+.dynamic-txt {
+  overflow: hidden ;
+  color: #4682B4 !important;
+  padding-top: 0;
+  font-size: 8vh;
+  font-family: 'Georgia', serif;
+  border-left:2px solid  #4682B4;
+  border-right:2px solid #4682B4;
+
+}
+
+.h2-text {
+  font-family: 'Times New Roman', Times, serif;
+  color: #E1341E !important;
+}
+
+#section1{
+  margin-bottom: 5vh !important;
+}
+.cards{
+  margin-top: 12vh;
+  background-color: #0B192C;
+  /*margin-left: 12vh;
+  margin-right: 12vh;*/
+}
+
+.trending-card
+{
+  max-height: 57vh;
+  padding:0px 30px 30px 30px;
+}
+
+/* Hide scrollbar for WebKit browsers */
+.custom-scrollbar::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+/* Hide scrollbar for Firefox */
+.custom-scrollbar {
+  scrollbar-width: none; /* Firefox */
+}
+
+/* animations */
+@keyframes appear{
+  from{
+    opacity: 0;
+    transform: translateX(-200px);
+    filter: blur(5px);
+  }
+  to{
+
+    opacity: 1;
+    transform: translateX(0);
+    filter: blur(0);
+  }
+}
+
+
+div:not(.footer) {
+  animation: appear linear;
+  animation-timeline: view();
+  animation-range: entry 10px  cover 20%;
+} 
+
+
+
+

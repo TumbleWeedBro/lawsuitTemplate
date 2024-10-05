@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Single Page Website</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="app.js"></script>
+</head>
+<body class="bg-gray-800 font-sans view">
+  <!-- Navigation Container -->
+  <nav class="flex justify-center my-8 fixed top-0 mt-2 w-full z-10">
+    <div class="nav-island text-white rounded-full px-8 py-3 flex space-x-8 text-lg shadow-lg">
+        <a href="#" class="hover:text-blue-custom">Home</a>
+        <a href="#" class="hover:text-blue-custom">Latest</a>
+        <a href="#" class="hover:text-blue-custom">List</a>
+        <a href="#" class="hover:text-blue-custom">Search</a>
+    </div>
+  </nav>
+
+  <!-- Section 1 Container -->
+  <section id="section1" class="py-12 bg-gray-800 mt-10">
+    <div class="container mx-auto text-center">
+      <ul class="static-txt">The LawSuit:</ul>
+      <ul class="dynamic-txt text-gray-200">
+          <li><span class="span-slide">ALL YOUR NEWS</span>
+          <li><span class="span-slide">UP TO DATE</span></li>
+          <li><span class="span-slide">ALWAYS</span></li>
+      </ul>      
+    </div>
+  </section>
+
+  <!-- Section 2 Container -->
+  <section id="section2" class="py-12 bg-gray-800 flex flex-wrap justify-center">
+    <div class="container mx-6 flex-col">
+
+    <h2 class="h2-text text-4xl font-semibold text-gray-300 w-full mb-6"> LATEST UPDATES</h2>
+        
+    <div class="cards grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 ">
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] min-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar ">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400"></p>
+        </div>
+      </a>
+
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar ">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias molestias perferendis sunt odit, modi assumenda! Officia explicabo impedit quisquam eum cupiditate cumque. Provident minima nemo quam porro dolores dolorem inventore quia fugiat voluptatem et aperiam quis assumenda voluptatibus debitis asperiores, iste reprehenderit sunt iusto ipsa, rerum voluptas possimus cumque harum iure? Dolor modi perferendis officia in dicta velit numquam eligendi amet minima. Aut incidunt quos voluptatibus, delectus, sed quae corporis eveniet fugit animi exercitationem consectetur, explicabo aliquam sit expedita veniam! Porro quo tempore rem cupiditate nulla ipsum modi ad corrupti dolore perspiciatis odit optio, hic unde accusantium ipsam inventore dolorum! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] leading-normal overflow-hidden">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias molestias perferendis sunt odit, modi assumenda! Officia explicabo impedit quisquam eum cupiditate cumque. Provident minima nemo quam porro dolores dolorem inventore quia fugiat voluptatem et aperiam quis assumenda voluptatibus debitis asperiores, iste reprehenderit sunt iusto ipsa, rerum voluptas possimus cumque harum iure? Dolor modi perferendis officia in dicta velit numquam eligendi amet minima. Aut incidunt quos voluptatibus, delectus, sed quae corporis eveniet fugit animi exercitationem consectetur, explicabo aliquam sit expedita veniam! Porro quo tempore rem cupiditate nulla ipsum modi ad corrupti dolore perspiciatis odit optio, hic unde accusantium ipsam inventore dolorum! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar ">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias molestias perferendis sunt odit, modi assumenda! Officia explicabo impedit quisquam eum cupiditate cumque. Provident minima nemo quam porro dolores dolorem inventore quia fugiat voluptatem et aperiam quis assumenda voluptatibus debitis asperiores, iste reprehenderit sunt iusto ipsa, rerum voluptas possimus cumque harum iure? Dolor modi perferendis officia in dicta velit numquam eligendi amet minima. Aut incidunt quos voluptatibus, delectus, sed quae corporis eveniet fugit animi exercitationem consectetur, explicabo aliquam sit expedita veniam! Porro quo tempore rem cupiditate nulla ipsum modi ad corrupti dolore perspiciatis odit optio, hic unde accusantium ipsam inventore dolorum! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar ">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias molestias perferendis sunt odit, modi assumenda! Officia explicabo impedit quisquam eum cupiditate cumque. Provident minima nemo quam porro dolores dolorem inventore quia fugiat voluptatem et aperiam quis assumenda voluptatibus debitis asperiores, iste reprehenderit sunt iusto ipsa, rerum voluptas possimus cumque harum iure? Dolor modi perferendis officia in dicta velit numquam eligendi amet minima. Aut incidunt quos voluptatibus, delectus, sed quae corporis eveniet fugit animi exercitationem consectetur, explicabo aliquam sit expedita veniam! Porro quo tempore rem cupiditate nulla ipsum modi ad corrupti dolore perspiciatis odit optio, hic unde accusantium ipsam inventore dolorum! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar ">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias molestias perferendis sunt odit, modi assumenda! Officia explicabo impedit quisquam eum cupiditate cumque. Provident minima nemo quam porro dolores dolorem inventore quia fugiat voluptatem et aperiam quis assumenda voluptatibus debitis asperiores, iste reprehenderit sunt iusto ipsa, rerum voluptas possimus cumque harum iure? Dolor modi perferendis officia in dicta velit numquam eligendi amet minima. Aut incidunt quos voluptatibus, delectus, sed quae corporis eveniet fugit animi exercitationem consectetur, explicabo aliquam sit expedita veniam! Porro quo tempore rem cupiditate nulla ipsum modi ad corrupti dolore perspiciatis odit optio, hic unde accusantium ipsam inventore dolorum! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar ">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias molestias perferendis sunt odit, modi assumenda! Officia explicabo impedit quisquam eum cupiditate cumque. Provident minima nemo quam porro dolores dolorem inventore quia fugiat voluptatem et aperiam quis assumenda voluptatibus debitis asperiores, iste reprehenderit sunt iusto ipsa, rerum voluptas possimus cumque harum iure? Dolor modi perferendis officia in dicta velit numquam eligendi amet minima. Aut incidunt quos voluptatibus, delectus, sed quae corporis eveniet fugit animi exercitationem consectetur, explicabo aliquam sit expedita veniam! Porro quo tempore rem cupiditate nulla ipsum modi ad corrupti dolore perspiciatis odit optio, hic unde accusantium ipsam inventore dolorum! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar ">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias molestias perferendis sunt odit, modi assumenda! Officia explicabo impedit quisquam eum cupiditate cumque. Provident minima nemo quam porro dolores dolorem inventore quia fugiat voluptatem et aperiam quis assumenda voluptatibus debitis asperiores, iste reprehenderit sunt iusto ipsa, rerum voluptas possimus cumque harum iure? Dolor modi perferendis officia in dicta velit numquam eligendi amet minima. Aut incidunt quos voluptatibus, delectus, sed quae corporis eveniet fugit animi exercitationem consectetur, explicabo aliquam sit expedita veniam! Porro quo tempore rem cupiditate nulla ipsum modi ad corrupti dolore perspiciatis odit optio, hic unde accusantium ipsam inventore dolorum! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+      <a href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100   dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+        <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="./images/techImg.jpg" alt="">
+        <div class="flex flex-col justify-between p-4 max-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar ">
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor, sit amet consectetur adipisicing elit. Alias molestias perferendis sunt odit, modi assumenda! Officia explicabo impedit quisquam eum cupiditate cumque. Provident minima nemo quam porro dolores dolorem inventore quia fugiat voluptatem et aperiam quis assumenda voluptatibus debitis asperiores, iste reprehenderit sunt iusto ipsa, rerum voluptas possimus cumque harum iure? Dolor modi perferendis officia in dicta velit numquam eligendi amet minima. Aut incidunt quos voluptatibus, delectus, sed quae corporis eveniet fugit animi exercitationem consectetur, explicabo aliquam sit expedita veniam! Porro quo tempore rem cupiditate nulla ipsum modi ad corrupti dolore perspiciatis odit optio, hic unde accusantium ipsam inventore dolorum! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+
+    </div>
+
+    </div>
+
+  </section>
+
+  <!-- Section 3 Container -->
+  <section id="section3" class=" bg-gray-800 mt-10">
+    <div class="pb-[3vh] mb-[3vh] container mx-auto text-center grid grid-cols sm:grid-cols-1 lg:grid-cols-4 gap-4">
+      <h2 class="h2-text text-4xl pt-4 font-semibold text-gray-300 w-full mb-6 col-span-full">TRENDING TOPICS</h2>
+    
+      <a href="#" class="animate-element col-span-full grid grid-cols-1 sm:grid-cols-2 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 w-full">
+        <img class="w-full h-auto object-cover hover:object-scale-down" src="./images/techImg.jpg" alt="Noteworthy technology acquisitions 2021">
+    
+        <div class="justify-between p-4 leading-normal">
+          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+          <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        </div>
+      </a>
+
+      <!-- TRENDING INDIVIDUALS -->
+    <div class="trending-card w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 col-span-2 overflow-y-scroll custom-scrollbar">
+      <div class="flex items-center w-full my-0 p-4 bg-gray-800 justify-between sticky top-0">
+          <h5 class="text-xl font-bold leading-none text-gray-900 dark:text-white">TRENDING INDIVIDUALS</h5>
+          <a href="#" class="text-sm font-medium text-blue-600 hover:underline dark:text-blue-500">
+              View all
+          </a>
+      </div>
+        <div class="flow-root">
+              <ul role="list" class="divide-y divide-gray-200 dark:divide-gray-700">
+                  <li class="py-3 sm:py-4">
+                      <div class="flex items-center">
+                          <div class="flex-shrink-0">
+                              <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-1.jpg" alt="Neil image">
+                          </div>
+                          <div class="flex-1 min-w-0 ms-4">
+                              <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                  Neil Sims
+                              </p>
+                              <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                  email@windster.com
+                              </p>
+                          </div>
+                          <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                              $320
+                          </div>
+                      </div>
+                  </li>
+                  <li class="py-3 sm:py-4">
+                    <div class="flex items-center">
+                        <div class="flex-shrink-0">
+                            <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-1.jpg" alt="Neil image">
+                        </div>
+                        <div class="flex-1 min-w-0 ms-4">
+                            <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                Neil Sims
+                            </p>
+                            <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                email@windster.com
+                            </p>
+                        </div>
+                        <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                            $320
+                        </div>
+                    </div>
+                </li>
+                <li class="py-3 sm:py-4">
+                  <div class="flex items-center">
+                      <div class="flex-shrink-0">
+                          <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-1.jpg" alt="Neil image">
+                      </div>
+                      <div class="flex-1 min-w-0 ms-4">
+                          <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                              Neil Sims
+                          </p>
+                          <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                              email@windster.com
+                          </p>
+                      </div>
+                      <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                          $320
+                      </div>
+                  </div>
+              </li>
+              <li class="py-3 sm:py-4">
+                <div class="flex items-center">
+                    <div class="flex-shrink-0">
+                        <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-1.jpg" alt="Neil image">
+                    </div>
+                    <div class="flex-1 min-w-0 ms-4">
+                        <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                            Neil Sims
+                        </p>
+                        <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                            email@windster.com
+                        </p>
+                    </div>
+                    <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                        $320
+                    </div>
+                </div>
+            </li>
+            <li class="py-3 sm:py-4">
+              <div class="flex items-center">
+                  <div class="flex-shrink-0">
+                      <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-1.jpg" alt="Neil image">
+                  </div>
+                  <div class="flex-1 min-w-0 ms-4">
+                      <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                          Neil Sims
+                      </p>
+                      <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                          email@windster.com
+                      </p>
+                  </div>
+                  <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                      $320
+                  </div>
+              </div>
+          </li>
+          <li class="py-3 sm:py-4">
+            <div class="flex items-center">
+                <div class="flex-shrink-0">
+                    <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-1.jpg" alt="Neil image">
+                </div>
+                <div class="flex-1 min-w-0 ms-4">
+                    <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                        Neil Sims
+                    </p>
+                    <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                        email@windster.com
+                    </p>
+                </div>
+                <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                    $320
+                </div>
+            </div>
+        </li>
+                  <li class="py-3 sm:py-4">
+                      <div class="flex items-center ">
+                          <div class="flex-shrink-0">
+                              <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-3.jpg" alt="Bonnie image">
+                          </div>
+                          <div class="flex-1 min-w-0 ms-4">
+                              <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                  Bonnie Green
+                              </p>
+                              <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                  email@windster.com
+                              </p>
+                          </div>
+                          <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                              $3467
+                          </div>
+                      </div>
+                  </li>
+                  <li class="py-3 sm:py-4">
+                      <div class="flex items-center">
+                          <div class="flex-shrink-0">
+                              <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-2.jpg" alt="Michael image">
+                          </div>
+                          <div class="flex-1 min-w-0 ms-4">
+                              <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                  Michael Gough
+                              </p>
+                              <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                  email@windster.com
+                              </p>
+                          </div>
+                          <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                              $67
+                          </div>
+                      </div>
+                  </li>
+                  <li class="py-3 sm:py-4">
+                      <div class="flex items-center ">
+                          <div class="flex-shrink-0">
+                              <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-4.jpg" alt="Lana image">
+                          </div>
+                          <div class="flex-1 min-w-0 ms-4">
+                              <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                  Lana Byrd
+                              </p>
+                              <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                  email@windster.com
+                              </p>
+                          </div>
+                          <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                              $367
+                          </div>
+                      </div>
+                  </li>
+                  <li class="pt-3 pb-0 sm:pt-4">
+                      <div class="flex items-center ">
+                          <div class="flex-shrink-0">
+                              <img class="w-8 h-8 rounded-full" src="/docs/images/people/profile-picture-5.jpg" alt="Thomas image">
+                          </div>
+                          <div class="flex-1 min-w-0 ms-4">
+                              <p class="text-sm font-medium text-gray-900 truncate dark:text-white">
+                                  Thomes Lean
+                              </p>
+                              <p class="text-sm text-gray-500 truncate dark:text-gray-400">
+                                  email@windster.com
+                              </p>
+                          </div>
+                          <div class="inline-flex items-center text-base font-semibold text-gray-900 dark:text-white">
+                              $2367
+                          </div>
+                      </div>
+                  </li>
+              </ul>
+        </div>
+        </div>
+
+              
+      <!-- start of card -->
+    <div class="animate-element max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700  overflow-hidden col-span-1">
+          <img class="rounded-t-lg" src="./images/techImg.jpg" alt="" />
+      <div class="max-h-[28vh] overflow-hidden pb-5">
+          
+          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+     
+          <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa vero eligendi hic suscipit voluptatem molestiae voluptas ab nobis voluptatibus nemo iste, repudiandae placeat architecto quisquam sequi harum debitis quae facilis. Deleniti, quas minus, eligendi modi, architecto ad officia dolorem sequi hic reprehenderit facilis ratione ex porro aspernatur a rerum? Minus doloribus suscipit quisquam architecto fugiat, at neque nostrum voluptatem tempore, consectetur nemo earum corrupti est quidem. Quos facere, numquam, adipisci tempora inventore sed deleniti doloribus sapiente sunt beatae minima? Possimus sint voluptatem distinctio delectus quo temporibus aperiam, cupiditate dolorem pariatur ducimus consequatur amet itaque? Esse nihil molestiae molestias eos labore! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+          <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+              Read more
+              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+              </svg>
+          </a>
+      </div>
+    </div>
+    <!-- end of cards -->
+      <!-- start of card -->
+      <div class="animate-element max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700  overflow-hidden col-span-1">
+        <img class="rounded-t-lg" src="./images/techImg.jpg" alt="" />
+    <div class="max-h-[28vh] overflow-hidden pb-5">
+        
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+   
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa vero eligendi hic suscipit voluptatem molestiae voluptas ab nobis voluptatibus nemo iste, repudiandae placeat architecto quisquam sequi harum debitis quae facilis. Deleniti, quas minus, eligendi modi, architecto ad officia dolorem sequi hic reprehenderit facilis ratione ex porro aspernatur a rerum? Minus doloribus suscipit quisquam architecto fugiat, at neque nostrum voluptatem tempore, consectetur nemo earum corrupti est quidem. Quos facere, numquam, adipisci tempora inventore sed deleniti doloribus sapiente sunt beatae minima? Possimus sint voluptatem distinctio delectus quo temporibus aperiam, cupiditate dolorem pariatur ducimus consequatur amet itaque? Esse nihil molestiae molestias eos labore! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+        <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+            Read more
+            <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+            </svg>
+        </a>
+    </div>
+  </div>
+  <!-- end of cards -->
+
+        <!-- start of card -->
+        <div class="animate-element max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700  overflow-hidden col-span-1">
+          <img class="rounded-t-lg" src="./images/techImg.jpg" alt="" />
+      <div class="max-h-[28vh] overflow-hidden pb-5">
+          
+          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+     
+          <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa vero eligendi hic suscipit voluptatem molestiae voluptas ab nobis voluptatibus nemo iste, repudiandae placeat architecto quisquam sequi harum debitis quae facilis. Deleniti, quas minus, eligendi modi, architecto ad officia dolorem sequi hic reprehenderit facilis ratione ex porro aspernatur a rerum? Minus doloribus suscipit quisquam architecto fugiat, at neque nostrum voluptatem tempore, consectetur nemo earum corrupti est quidem. Quos facere, numquam, adipisci tempora inventore sed deleniti doloribus sapiente sunt beatae minima? Possimus sint voluptatem distinctio delectus quo temporibus aperiam, cupiditate dolorem pariatur ducimus consequatur amet itaque? Esse nihil molestiae molestias eos labore! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+          <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+              Read more
+              <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                  <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+              </svg>
+          </a>
+      </div>
+    </div>
+    <!-- end of cards -->
+
+          <!-- start of card -->
+          <div class="animate-element max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700  overflow-hidden col-span-1">
+            <img class="rounded-t-lg" src="./images/techImg.jpg" alt="" />
+        <div class="max-h-[28vh] overflow-hidden pb-5">
+            
+            <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
+       
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa vero eligendi hic suscipit voluptatem molestiae voluptas ab nobis voluptatibus nemo iste, repudiandae placeat architecto quisquam sequi harum debitis quae facilis. Deleniti, quas minus, eligendi modi, architecto ad officia dolorem sequi hic reprehenderit facilis ratione ex porro aspernatur a rerum? Minus doloribus suscipit quisquam architecto fugiat, at neque nostrum voluptatem tempore, consectetur nemo earum corrupti est quidem. Quos facere, numquam, adipisci tempora inventore sed deleniti doloribus sapiente sunt beatae minima? Possimus sint voluptatem distinctio delectus quo temporibus aperiam, cupiditate dolorem pariatur ducimus consequatur amet itaque? Esse nihil molestiae molestias eos labore! technology acquisitions of 2021 so far, in reverse chronological order.</p>
+            <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
+                Read more
+                <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                </svg>
+            </a>
+        </div>
+      </div>
+      <!-- end of cards -->
+    </div>
+  </section>
+
+  <!-- Footer Container -->
+  <section class="footer bg-gray-800 text-white py-6">
+    <div class="footer container mx-auto text-center">
+      <p>&copy; 2024 My Single Page Website</p>
+    </div>
+  </section>
+
+</body>
+</html>
