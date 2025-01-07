@@ -1,25 +1,46 @@
-const axios = require('axios');
-const fs = require('fs');
-
-let topic = 'Lawsuit';
-let category = 'Business';
-let fromDate = '2024-01-01';
-let query = "lawsuit";
+import axios from 'axios';
+import {runQueryAndUpdateDOM} from 'updateDom.js';
 
 const apiKey = "18fadae1-3d0d--b463-46b75325369f";
-const url = `https://api.goperigon.com/v1/all?apiKey=${apiKey}&showReprints=false&paywall=false&sortBy=date&category=${category}&topic=${topic}&topic=Business Leaders&q=${query}`;
 
-axios.get(url)
+const latestUpdatesUrl = `api.goperigon.com/v1/all?apiKey=[KEY]&from=2025-01-06&sourceGroup=top100&showNumResults=true&showReprints=false&paywall=false&excludeLabel=Non-news&excludeLabel=Opinion&excludeLabel=Paid News&excludeLabel=Roundup&excludeLabel=Press Release&sortBy=date&category=Business&q=lawsuit`;
+
+const relevantResultsUrl = `api.goperigon.com/v1/all?apiKey=[KEY]&from=2025-01-06&sourceGroup=top100&showNumResults=true&showReprints=false&paywall=false&excludeLabel=Non-news&excludeLabel=Opinion&excludeLabel=Paid News&excludeLabel=Roundup&excludeLabel=Press Release&sortBy=relevance&category=Business&q=lawsuit`; 
+
+const businessUpdatesUrl= `https://api.goperigon.com/v1/all?apiKey=${apiKey}&showReprints=false&paywall=false&sortBy=date&category=${category}&topic=${topic}&topic=Business Leaders&q=${query}`;
+
+let searchQueryParam = "";
+const searchQueryUrl = `api.goperigon.com/v1/all?apiKey=[KEY]&from=2025-01-06&sourceGroup=top100&showNumResults=true&showReprints=false&paywall=false&excludeLabel=Non-news&excludeLabel=Opinion&excludeLabel=Paid News&excludeLabel=Roundup&excludeLabel=Press Release&sortBy=relevance&q=${searchQueryParam}`;
+
+// latest updates
+getArticles(latestUpdatesUrl, "latestUpdates.json");
+
+// relevant results
+getArticles(relevantResultsUrl, "relevantResults.json");
+
+// business updates
+getArticles(businessUpdatesUrl, "businessUpdates.json");
+
+async function getArticles(url, fileName)
+{
+  await axios.get(url)
   .then((response) => {
     const data = response.data;
-    fs.writeFile('sponse.json', JSON.stringify(data, null, 2), (err) => {
-      if (err) {
-        console.error('Error saving to file:', err);
-      } else {
-        console.log('Data saved to sponse.json');
-      }
-    });
+    storeArticles(fileName, data);
   })
   .catch((error) => {
     console.log(error);
   });
+
+}
+
+function storeArticles(keyName, data) {
+  try {
+    localStorage.setItem(keyName, JSON.stringify(data));
+    console.log(`Data saved to localStorage under the key "${keyName}".`);
+  } catch (error) {
+    console.error('Error saving to localStorage:', error);
+  }
+}
+
+runQueryAndUpdateDOM();

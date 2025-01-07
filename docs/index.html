@@ -8,6 +8,7 @@
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="./style.css">
   <!-- <script defer src="app.js"></script> -->
+
   <script src="./query.js" type="module"></script>
  
 </head>
@@ -40,9 +41,9 @@
         <h2 class="h2-text text-4xl font-semibold text-gray-300 w-full mb-6">LATEST UPDATES</h2>
 
         <!-- Updated the container ID to match JavaScript -->
-        <div id="cardsContainer" class="cards grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div id="section2CardContainer" class="cards grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
             <!-- The template for the cards -->
-            <a id="cardTemplate" href="" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 hidden">
+            <a id="section2Card" href="" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 hidden">
                 <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="" alt="">
                 <div class="flex flex-col justify-between p-4 max-h-[30vh] min-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Title</h5>
@@ -55,8 +56,8 @@
 
 <!-- Section 3 Container -->
 <section id="section3" class="bg-gray-800 mt-10">
-  <div class="pb-[3vh] mb-[3vh] container mx-auto text-center grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-    <h2 class="h2-text text-4xl pt-4 font-semibold text-gray-300 w-full mb-6 col-span-full">TRENDING TOPICS</h2>
+  <div id="section3CardContainer" class="pb-[3vh] mb-[3vh] container mx-auto text-center grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+    <h2 class="h2-text text-4xl pt-4 font-semibold text-gray-300 w-full mb-6 col-span-full">Relevant updates</h2>
 
     <a href="#" class="animate-element col-span-full sm:col-span-2 lg:col-span-4 grid grid-cols-1 sm:grid-cols-2 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 w-full">
       <img class="w-full h-auto object-cover hover:object-scale-down" src="./images/techImg.jpg" alt="Noteworthy technology acquisitions 2021">
@@ -100,103 +101,36 @@
     </div>
 
     <!-- Cards -->
-    <div class="animate-element w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden col-span-full sm:col-span-1 lg:col-span-1">
-      <img class="rounded-t-lg w-full h-auto object-cover" src="./images/techImg.jpg" alt="">
+    <a href="" id="section3Card" class="animate-element w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden col-span-full sm:col-span-1 lg:col-span-1">
+      <img class="rounded-t-lg w-full h-auto object-cover" src="" alt="">
       <div class="max-h-[28vh] overflow-hidden pb-5">
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-        <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-          Read more
-          <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-          </svg>
-        </a>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"></h5>
+        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400"></p>
       </div>
-    </div>
+    </a>
     <!-- end of card -->
      
-    
-    <!-- Cards -->
-    <div class="animate-element w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden col-span-full sm:col-span-1 lg:col-span-1">
-      <img class="rounded-t-lg w-full h-auto object-cover" src="./images/techImg.jpg" alt="">
-      <div class="max-h-[28vh] overflow-hidden pb-5">
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-        <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-          Read more
-          <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-          </svg>
-        </a>
-      </div>
-    </div>
-    <!-- end of card -->
-     
-    <!-- Cards -->
-    <div class="animate-element w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden col-span-full sm:col-span-1 lg:col-span-1">
-      <img class="rounded-t-lg w-full h-auto object-cover" src="./images/techImg.jpg" alt="">
-      <div class="max-h-[28vh] overflow-hidden pb-5">
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-        <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-          Read more
-          <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-          </svg>
-        </a>
-      </div>
-    </div>
-    <!-- end of card -->
-     
-    <!-- Cards -->
-    <div class="animate-element w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden col-span-full sm:col-span-1 lg:col-span-1">
-      <img class="rounded-t-lg w-full h-auto object-cover" src="./images/techImg.jpg" alt="">
-      <div class="max-h-[28vh] overflow-hidden pb-5">
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-        <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-          Read more
-          <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-          </svg>
-        </a>
-      </div>
-    </div>
-    <!-- end of card -->
-     
-    <!-- Cards -->
-    <div class="animate-element w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden col-span-full sm:col-span-1 lg:col-span-1">
-      <img class="rounded-t-lg w-full h-auto object-cover" src="./images/techImg.jpg" alt="">
-      <div class="max-h-[28vh] overflow-hidden pb-5">
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-        <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-          Read more
-          <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-          </svg>
-        </a>
-      </div>
-    </div>
-    <!-- end of card -->
-     
-    <!-- Cards -->
-    <div class="animate-element w-full bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden col-span-full sm:col-span-1 lg:col-span-1">
-      <img class="rounded-t-lg w-full h-auto object-cover" src="./images/techImg.jpg" alt="">
-      <div class="max-h-[28vh] overflow-hidden pb-5">
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Noteworthy technology acquisitions 2021</h5>
-        <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
-        <a href="#" class="sticky bottom-0 inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">
-          Read more
-          <svg class="rtl:rotate-180 w-3.5 h-3.5 ms-2" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
-          </svg>
-        </a>
-      </div>
-    </div>
     <!-- end of card -->
     <!-- Repeat similar blocks for other cards -->
   </div>
+
+  <section id="section4" class="py-12 bg-gray-800 flex flex-wrap justify-center">
+    <div class="container mx-6 flex-col">
+        <h2 class="h2-text text-4xl font-semibold text-gray-300 w-full mb-6">Business Leader Updates</h2>
+
+        <!-- Updated the container ID to match JavaScript -->
+        <div id="section4CardContainer" class="cards grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            <!-- The template for the cards -->
+            <a id="section4Card" href="" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 hidden">
+                <img class="object-cover w-full h-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg" src="" alt="">
+                <div class="flex flex-col justify-between p-4 max-h-[30vh] min-h-[30vh] leading-normal overflow-y-scroll custom-scrollbar">
+                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Title</h5>
+                    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Paragraph</p>
+                </div>
+            </a>
+        </div>
+    </div>
+  </section>
 </section>
   <!-- Footer Container -->
   <section class="footer bg-gray-800 text-white py-6">
