@@ -1,0 +1,2649 @@
+{
+  "status": 200,
+  "numResults": 7313,
+  "articles": [
+    {
+      "url": "https://nypost.com/2025/01/06/business/elon-musk-hyped-meme-coins-are-here-to-stay-analysts/",
+      "authorsByline": "Lydia Moynihan",
+      "articleId": "0cd082feed4a4825af25aad79ea2d05f",
+      "clusterId": "f14c8007ae3442ce876cd61372f77a63",
+      "source": {
+        "domain": "nypost.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "NY",
+          "city": "New York",
+          "coordinates": {
+            "lat": 40.7127281,
+            "lon": -74.0060152
+          }
+        }
+      },
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2025/01/NYNEXT-THUMBNAILS-USE1920-x-1080-px-1920-x-1080-px-3.png?w=1024",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2025-01-06T11:00:00+00:00",
+      "addDate": "2025-01-06T11:02:59.986137+00:00",
+      "refreshDate": "2025-01-06T11:02:59.986140+00:00",
+      "score": 1,
+      "title": "Elon Musk hyped meme coins are soaring in value — and analysts say they’re here to stay",
+      "description": "Savvy smaller investors and investment funds have poured millions into the space — and reaped impressive returns for doing so.",
+      "content": "Within hours of Elon Musk changing his X handle to ‘Kekius Maximus’ on New Year’s Eve — a reference to an previously obscure cryptocurrency – its value rocketed 4,800% to hit a market cap of $380 mill... [5524 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://nypost.com/2024/11/13/business/dogecoin-surges-after-trump-announces-elon-musk-led-agency/",
+        "https://nypost.com/2024/12/19/business/murky-group-behind-hawk-tuah-girl-haliey-welchs-failed-meme-coin-sued-by-investors/",
+        "https://nypost.com/2024/12/31/us-news/why-elon-musk-changed-his-name-on-x-to-kekius-maximus/",
+        "https://cointelegraph.com/news/trader-turns-profits-3-million-musk-kekius-maximus-memecoin",
+        "https://nypost.com/tag/ny-next/",
+        "https://nypost.com/2024/12/05/business/hawk-tuah-girl-haliey-welch-launches-cryptocurrency-which-crashes-shortly-after-launch/",
+        "https://nypost.com/2024/11/12/us-news/trump-announces-elon-musk-vivek-ramaswamy-to-lead-new-department-of-government-efficiency/"
+      ],
+      "labels": [],
+      "matchedAuthors": [
+        {
+          "id": "3a1c3e99e3f94e24aabba46f77f58f18",
+          "name": "Lydia Moynihan"
+        }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "meme coins",
+          "weight": 0.12637289
+        },
+        {
+          "name": "Elon Musk hyped meme coins",
+          "weight": 0.10820579
+        },
+        {
+          "name": "coin",
+          "weight": 0.097758934
+        },
+        {
+          "name": "coin watchers",
+          "weight": 0.0942562
+        },
+        {
+          "name": "memes",
+          "weight": 0.09170367
+        },
+        {
+          "name": "The first popular meme coin",
+          "weight": 0.07228396
+        },
+        {
+          "name": "One recent AI generated meme coin",
+          "weight": 0.07098361
+        },
+        {
+          "name": "a viral meme coin",
+          "weight": 0.070656836
+        },
+        {
+          "name": "a meme coin disaster",
+          "weight": 0.06969096
+        },
+        {
+          "name": "The meme coin sector",
+          "weight": 0.06946809
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Business"
+        }
+      ],
+      "entities": [
+        {
+          "data": "Elon Musk",
+          "type": "PERSON",
+          "mentions": 4
+        },
+        {
+          "data": "Pepe the Frog",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Laurent Parmentier",
+          "type": "PERSON",
+          "mentions": 4
+        },
+        {
+          "data": "Peanut",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Aulden Borthwick",
+          "type": "PERSON",
+          "mentions": 2
+        },
+        {
+          "data": "Vivek Ramaswamy",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Donald Trump",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Toe Bautista",
+          "type": "PERSON",
+          "mentions": 2
+        },
+        {
+          "data": "Hailey Welch",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Courtland Leer",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "hours",
+          "type": "TIME",
+          "mentions": 2
+        },
+        {
+          "data": "minutes",
+          "type": "TIME",
+          "mentions": 1
+        },
+        {
+          "data": "Stratos",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Andreessen Horowitz",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "The Post",
+          "type": "ORG",
+          "mentions": 4
+        },
+        {
+          "data": "Nvidia",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "NYU",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Kekius Maximus",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Cointelegraph.com",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Dogecoin",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "GSR Research",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Plastic Labs",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "New York State",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Dogecoin",
+          "type": "PRODUCT",
+          "mentions": 1
+        },
+        {
+          "data": "Hawk Tua",
+          "type": "PRODUCT",
+          "mentions": 1
+        },
+        {
+          "data": "GOAT",
+          "type": "PRODUCT",
+          "mentions": 1
+        }
+      ],
+      "companies": [
+        {
+          "id": "94bbd0512cd04cc4b7041d78d9d4cf73",
+          "name": "NVIDIA Corporation",
+          "domains": [
+            "nvidia.com"
+          ],
+          "symbols": [
+            "NVD.DE",
+            "NVDA"
+          ]
+        },
+        {
+          "id": "3885644592784e7caee2e22763cf0158",
+          "name": "Dogecoin",
+          "domains": [
+            "dogecoin.com"
+          ],
+          "symbols": []
+        }
+      ],
+      "sentiment": {
+        "positive": 0.3175616,
+        "negative": 0.29221234,
+        "neutral": 0.39022613
+      },
+      "summary": "The value of meme coins, a cryptocurrency based on a meme or cultural event such as Dogecoin, Shiba Inu, or Pepe the Frog, is soaring in value, with some believing they have no underlying value and attract people with limited financial experience who then lose their money. However, savvy smaller investors and investment funds have invested millions into the space and have seen impressive returns. The meme coin sector is expected to have jumped from $20 billion in January 2024 to more than $120 billion by the end of 2024, according to market analysts. Laurent Parmentier, a partner at crypto investment fund Stratos, who has backing from Andreessen Horowitz, said that a fund they launched in 2023 specifically invests in meme coins has dwarfed more traditional investments. Parmenter believes that meme coins are a way to celebrate and gain attention to cryptocurrency and its culture, as long as investors pick the right coin. The quick returns are appealing to younger investors due to their age and appeal to their generation.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "302b3797829b42cbbd5eecd2208a8566",
+      "places": [],
+      "people": [
+        {
+          "wikidataId": "Q27881473",
+          "name": "Vivek Ramaswamy"
+        },
+        {
+          "wikidataId": "Q317521",
+          "name": "Elon Musk"
+        },
+        {
+          "wikidataId": "Q22686",
+          "name": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "url": "https://www.foxbusiness.com/technology/openai-ceo-sam-altman-rings-2025-cryptic-concerning-poem-ais-future",
+      "authorsByline": "Andrea Margolis",
+      "articleId": "88362961d7eb43acaefb1bb6f91ec8df",
+      "clusterId": "cbca1f4d4e8640d9adfc17a31af5f7f9",
+      "source": {
+        "domain": "foxbusiness.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "NY",
+          "city": "New York",
+          "coordinates": {
+            "lat": 40.7127281,
+            "lon": -74.0060152
+          }
+        }
+      },
+      "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/copy-of-right-inset-3.png?ve=1&tl=1",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2025-01-04T17:29:39-05:00",
+      "addDate": "2025-01-04T22:41:15.692099+00:00",
+      "refreshDate": "2025-01-04T22:41:15.692101+00:00",
+      "score": 1,
+      "title": "OpenAI CEO Sam Altman rings in 2025 with cryptic, concerning tweet about AI's future",
+      "description": "OpenAI founder Sam Altman's first post of 2025 was a poem about technological singularity, raising concerns and questions about the future of AI and human civilization.",
+      "content": "OpenAI founder Sam Altman rang in the new year with a short missive posing questions and concerns about the future of artificial intelligence (AI).\n\nIn his first tweet of 2025, Altman published a cryp... [2205 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.foxbusiness.com/technology/openai-debuts-chat-gpt-4-more-advanced-ai-model-can-describe-photos-handle-more-texts",
+        "https://www.foxbusiness.com/technology/elon-musk-sues-openai-sam-altman-again",
+        "https://www.foxbusiness.com/apps-products",
+        "https://www.foxbusiness.com/technology/openai-hits-back-elon-musk-lawsuit-says-he-suggested-for-profit-entity",
+        "https://www.foxbusiness.com/video/6366665694112",
+        "https://www.foxbusiness.com/video/6366573343112",
+        "https://www.foxbusiness.com/technology/openai-ceo-sam-altman-looking-forward-working-trump-admin-says-us-must-build-best-ai-infrastructure"
+      ],
+      "labels": [],
+      "matchedAuthors": [
+        {
+          "id": null,
+          "name": "Andrea Margolis"
+        }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "OpenAI CEO Sam Altman",
+          "weight": 0.11830308
+        },
+        {
+          "name": "OpenAI founder Sam Altman",
+          "weight": 0.11320016
+        },
+        {
+          "name": "Sam Altman",
+          "weight": 0.10012824
+        },
+        {
+          "name": "Altman",
+          "weight": 0.09578686
+        },
+        {
+          "name": "OpenAI",
+          "weight": 0.08442761
+        },
+        {
+          "name": "other tech entrepreneurs",
+          "weight": 0.07693342
+        },
+        {
+          "name": "Tesla CEO Elon Musk",
+          "weight": 0.07318308
+        },
+        {
+          "name": "technological singularity",
+          "weight": 0.07176069
+        },
+        {
+          "name": "Y Combinator CEO Garry Tan",
+          "weight": 0.07122985
+        },
+        {
+          "name": "artificial general intelligence",
+          "weight": 0.0703365
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        },
+        {
+          "name": "Tweets"
+        },
+        {
+          "name": "AI"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Tech"
+        },
+        {
+          "name": "Business"
+        }
+      ],
+      "entities": [
+        {
+          "data": "OpenAI",
+          "type": "ORG",
+          "mentions": 8
+        },
+        {
+          "data": "Takeoff",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Tesla",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "SpaceX",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Altman",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Y Combinator",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "FOX BUSINESS",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "Sam Altman",
+          "type": "PERSON",
+          "mentions": 7
+        },
+        {
+          "data": "TIKTOK BAN",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "ELON MUSK",
+          "type": "PERSON",
+          "mentions": 4
+        },
+        {
+          "data": "Garry Tan",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "A few minutes later",
+          "type": "TIME",
+          "mentions": 1
+        },
+        {
+          "data": "GPT-4 language model",
+          "type": "PRODUCT",
+          "mentions": 2
+        }
+      ],
+      "companies": [
+        {
+          "id": "6d688831f698495281098a1d24465e33",
+          "name": "OpenAI",
+          "domains": [
+            "openai.com"
+          ],
+          "symbols": []
+        }
+      ],
+      "sentiment": {
+        "positive": 0.05818622,
+        "negative": 0.65175205,
+        "neutral": 0.29006174
+      },
+      "summary": "OpenAI CEO Sam Altman has issued a cryptic tweet about the future of artificial intelligence (AI). The post, titled \"near the singularity,\" referred to the point where technology becomes so advanced that it could potentially move beyond mankind's control, potentially causing havoc on human civilization. Altman later revealed that the message may also be about the simulation hypothesis, which is the theory that humans exist in a computer simulation. The simulation hypothesis is generally considered less realistic than the idea of technological singularity. Tesla CEO Elon Musk recently accused OpenAI of developing artificial general intelligence (AGI), or the ability for a machine to perform any task a computer can. However, OpenAI has denied this, with Altman suggesting it could take off in 2025.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "03aab5997c1049d5a45a1d6dee0df475",
+      "places": [],
+      "people": [
+        {
+          "wikidataId": "Q7407093",
+          "name": "Sam Altman"
+        },
+        {
+          "wikidataId": "Q23417057",
+          "name": "Garry Tan"
+        },
+        {
+          "wikidataId": "Q317521",
+          "name": "Elon Musk"
+        }
+      ]
+    },
+    {
+      "url": "https://www.foxbusiness.com/technology/cybersecurity-pioneer-tech-ceo-amit-yoran-dies-unexpectedly-cancer-battle",
+      "authorsByline": "Andrea Margolis",
+      "articleId": "216f9e8851d4441fb6cc136574ebe6a3",
+      "clusterId": "94d5fcbc2f1a4c8a82606152aaedc5ff",
+      "source": {
+        "domain": "foxbusiness.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "NY",
+          "city": "New York",
+          "coordinates": {
+            "lat": 40.7127281,
+            "lon": -74.0060152
+          }
+        }
+      },
+      "imageUrl": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2025/01/0/0/tenable-ceo-amit-1.png?ve=1&tl=1",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2025-01-04T16:49:25-05:00",
+      "addDate": "2025-01-04T21:56:37.007758+00:00",
+      "refreshDate": "2025-01-04T21:56:37.007760+00:00",
+      "score": 1,
+      "title": "Cybersecurity pioneer, tech CEO Amit Yoran dies 'unexpectedly' amid cancer battle",
+      "description": "Tenable CEO Amit Yoran died on Friday during a battle with cancer, his company announced Saturday. Yoran, 54, had taken medical leave a month prior.",
+      "content": "Amit Yoran, a tech executive who served as CEO of Tenable Holdings., Inc., died on Friday, his company announced.\n\nYoran died \"unexpectedly\" during a battle with cancer, Tenable said on Saturday. He w... [2160 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.foxbusiness.com/technology/openai-hits-back-elon-musk-lawsuit-says-he-suggested-for-profit-entity",
+        "https://www.foxbusiness.com/category/cyber-security",
+        "https://www.foxbusiness.com/quote?stockTicker=TENB",
+        "https://www.foxbusiness.com/apps-products",
+        "https://www.foxbusiness.com/markets/what-is-a-fortune-500-company",
+        "https://www.foxbusiness.com/technology/companies-minimize-cybersecurity-risk-tech-vendors",
+        "https://www.foxbusiness.com/video/6366573343112",
+        "https://www.foxbusiness.com/video/6366576100112"
+      ],
+      "labels": [
+        {
+          "name": "Roundup"
+        }
+      ],
+      "matchedAuthors": [
+        {
+          "id": null,
+          "name": "Andrea Margolis"
+        }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "Amit Yoran",
+          "weight": 0.10097851
+        },
+        {
+          "name": "Tenable",
+          "weight": 0.10093236
+        },
+        {
+          "name": "Tenable COO Mark Thurmond",
+          "weight": 0.096009605
+        },
+        {
+          "name": "Tenable CFO Steve Vintz",
+          "weight": 0.092498064
+        },
+        {
+          "name": "Yoran",
+          "weight": 0.08914668
+        },
+        {
+          "name": "Cybersecurity pioneer",
+          "weight": 0.070835926
+        },
+        {
+          "name": "founding CEO",
+          "weight": 0.06874728
+        },
+        {
+          "name": "tech CEO",
+          "weight": 0.064215526
+        },
+        {
+          "name": "cybersecurity",
+          "weight": 0.062152978
+        },
+        {
+          "name": "Computer Emergency Readiness Team",
+          "weight": 0.06200511
+        }
+      ],
+      "topics": [
+        {
+          "name": "Security"
+        },
+        {
+          "name": "Cyber Crime"
+        },
+        {
+          "name": "Security Breach"
+        },
+        {
+          "name": "Business Leaders"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "Tech"
+        }
+      ],
+      "entities": [
+        {
+          "data": "Amit Yoran",
+          "type": "PERSON",
+          "mentions": 10
+        },
+        {
+          "data": "TIKTOK BAN",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "ELON MUSK",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Coviello",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Steve Vintz",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Mark Thurmond",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Tenable Holdings., Inc.",
+          "type": "ORG",
+          "mentions": 11
+        },
+        {
+          "data": "U.S. Securities and Exchange Commission",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "SEC",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Computer Emergency Readiness Team",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "the Department of Homeland Security",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "DHS",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "OPENAI",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "RSA",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Netwitness",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "the United States Naval Academy",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Harvard Business School",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "FOX",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "U.S.",
+          "type": "GPE",
+          "mentions": 1
+        }
+      ],
+      "companies": [
+        {
+          "id": "947ead4d593c4a23959cb5a786d24c2f",
+          "name": "Tenable Holdings, Inc.",
+          "domains": [
+            "tenable.com"
+          ],
+          "symbols": [
+            "0ZC0.L",
+            "TENB"
+          ]
+        },
+        {
+          "id": "2d689d45596845b797bf160cce32ba5f",
+          "name": "Fox Corporation",
+          "domains": [
+            "foxcorporation.com"
+          ],
+          "symbols": [
+            "FOX",
+            "FOXA"
+          ]
+        }
+      ],
+      "sentiment": {
+        "positive": 0.24791972,
+        "negative": 0.27251515,
+        "neutral": 0.47956514
+      },
+      "summary": "Amit Yoran, CEO of Tenable Holdings., Inc., has died unexpectedly during a battle with cancer. Tenable, a cybersecurity company with 44,000 customers and clients of around 65% of Fortune 500 companies, announced that Yoran had died at 54 years old. Yoran was also the founding director of the U.S. Computer Emergency Readiness Team program at the Department of Homeland Security (DHS), where he worked from 2003 to 2005. The company praised Yoran as a visionary leader and a pioneer in the cybersecurity industry. CFO Steve Vintz and Tenable COO Mark Thurmond assumed Yoran's role.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "a4156cfbde434bbe972be9cb219dec07",
+      "places": [],
+      "people": []
+    },
+    {
+      "url": "https://www.benzinga.com/25/01/42802287/cathie-woods-ark-investment-appeal-decision-to-void-tesla-ceos-pay-package-musk-says-awesome",
+      "authorsByline": "Anan Ashraf",
+      "articleId": "47a96066b83842109375132fdc7a6d36",
+      "clusterId": "aa260600b63341c8a22dbfdfa4374548",
+      "source": {
+        "domain": "benzinga.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "MI",
+          "county": "Wayne County",
+          "city": "Detroit",
+          "coordinates": {
+            "lat": 42.3315509,
+            "lon": -83.0466403
+          }
+        }
+      },
+      "imageUrl": "https://cdn.benzinga.com/files/images/story/2025/01/04/Elon-Musks-690-Stock-Price-Optimism-Asid.jpeg?width=1200&height=800&fit=crop",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2025-01-04T01:49:05-05:00",
+      "addDate": "2025-01-04T07:14:49.916640+00:00",
+      "refreshDate": "2025-01-04T07:14:49.916642+00:00",
+      "score": 1,
+      "title": "Cathie Wood's Ark Investment Appeal Decision To Void Tesla CEO's Pay Package: Elon Musk Says 'Awesome' - Tesla (NASDAQ:TSLA)",
+      "description": "A group of Tesla shareholders, including Cathie Wood's Ark Invest, are reportedly appealing the Delaware Chancery court's decision to block Elon Musk's $56 billion pay package at the EV company.",
+      "content": "A group of Tesla Inc. TSLA shareholders, including Cathie Wood‘s Ark Investment Management LLC, are reportedly appealing the Delaware Chancery court’s decision to block Elon Musk‘s $56 billion pay pac... [2169 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://twitter.com/elonmusk/status/1875030040762777874?ref_src=twsrc%5Etfw",
+        "https://www.benzinga.com/news/24/06/39452158/tesla-ceo-elon-musk-calls-for-legal-reform-on-class-action-lawsuits-serving-simply-to-enrich-law-fir",
+        "https://www.benzinga.com/25/01/42780142/chinese-player-byd-overtakes-tesla-yet-again-as-worlds-biggest-ev-seller-in-q4",
+        "https://news.bloomberglaw.com/securities-law/elon-musks-pay-deal-decision-appealed-to-delaware-supreme-court",
+        "https://www.benzinga.com/news/24/06/39323339/tesla-shareholders-approve-elon-musk-56b-pay-package-other-company-proposals",
+        "https://www.benzinga.com/topic/mobility"
+      ],
+      "labels": [],
+      "matchedAuthors": [
+        {
+          "id": null,
+          "name": "Anan Ashraf"
+        }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "Tesla shareholders",
+          "weight": 0.11460967
+        },
+        {
+          "name": "real Tesla shareholders",
+          "weight": 0.10807685
+        },
+        {
+          "name": "Tesla Inc. TSLA shareholders",
+          "weight": 0.10765849
+        },
+        {
+          "name": "Tesla Inc.",
+          "weight": 0.08976406
+        },
+        {
+          "name": "Elon Musk",
+          "weight": 0.08953843
+        },
+        {
+          "name": "Tesla",
+          "weight": 0.08828109
+        },
+        {
+          "name": "minor shareholder Richard Tornetta",
+          "weight": 0.08761793
+        },
+        {
+          "name": "Florida shareholders",
+          "weight": 0.087025955
+        },
+        {
+          "name": "Delaware Chancery Court",
+          "weight": 0.084467545
+        },
+        {
+          "name": "Musk",
+          "weight": 0.0843856
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        },
+        {
+          "name": "Stocks"
+        },
+        {
+          "name": "Markets"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Auto"
+        },
+        {
+          "name": "Finance"
+        },
+        {
+          "name": "Business"
+        }
+      ],
+      "entities": [
+        {
+          "data": "Cathie Wood's",
+          "type": "PERSON",
+          "mentions": 2
+        },
+        {
+          "data": "Elon Musk",
+          "type": "PERSON",
+          "mentions": 10
+        },
+        {
+          "data": "David Israel",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Kurt Panouses",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Kathaleen St. J. McCormick",
+          "type": "PERSON",
+          "mentions": 3
+        },
+        {
+          "data": "Richard Tornetta",
+          "type": "PERSON",
+          "mentions": 3
+        },
+        {
+          "data": "Tesla",
+          "type": "ORG",
+          "mentions": 10
+        },
+        {
+          "data": "Delaware Chancery",
+          "type": "ORG",
+          "mentions": 4
+        },
+        {
+          "data": "Ark Ivestment Management LLC",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Bloomberg",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "X",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Benzinga",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "BYD",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Florida",
+          "type": "GPE",
+          "mentions": 2
+        },
+        {
+          "data": "X",
+          "type": "PRODUCT",
+          "mentions": 1
+        },
+        {
+          "data": "Chinese",
+          "type": "NORP",
+          "mentions": 1
+        }
+      ],
+      "companies": [
+        {
+          "id": "eeee660a046242b8bf99f45fdc95cc32",
+          "name": "Tesla, Inc.",
+          "domains": [
+            "tesla.com"
+          ],
+          "symbols": [
+            "TSLA",
+            "TL0.DE"
+          ]
+        }
+      ],
+      "sentiment": {
+        "positive": 0.055465482,
+        "negative": 0.7150851,
+        "neutral": 0.22944944
+      },
+      "summary": "A group of Tesla Inc. shareholders, including Cathie Wood's Ark Investment Management LLC, are appealing a decision by Delaware Chancery Court Judge Kathaleen St. J. McCormick to block Elon Musk’s $56 billion pay package at the company. The appeal was filed in the Supreme Court of Delaware. The judge had previously ruled that Tesla's board was influenced by Musk. Tesla shareholders voted to reinstate the package in June, but McCormick again ruled against it in December. Tesla plans to appeal the ruling to the Delaware Supreme Court. Over 70% of Tesla shareholders approved Musk's pay package in 2018 and again in June 2024.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "2b808ea1b44c4306bc733519bca78247",
+      "places": [],
+      "people": [
+        {
+          "wikidataId": "Q5237126",
+          "name": "David Margolis"
+        },
+        {
+          "wikidataId": "Q104587868",
+          "name": "Cathie Wood"
+        },
+        {
+          "wikidataId": "Q317521",
+          "name": "Elon Musk"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ksdk.com/article/news/local/fired-sldc-exec-claims-retaliation-federal-fund-warnings-sues-for-whistleblower-protection/63-73fe6b48-a935-4397-8140-eda060d77d99",
+      "authorsByline": "Mark Maxwell",
+      "articleId": "9e3675fb59d044e2ae0d5fc2908882de",
+      "clusterId": "804947f15970491f972a1c3bac70da74",
+      "source": {
+        "domain": "ksdk.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "MO",
+          "city": "St. Louis",
+          "coordinates": {
+            "lat": 38.6319657,
+            "lon": -90.2428756
+          }
+        }
+      },
+      "imageUrl": "https://media.ksdk.com/assets/KSDK/images/c7b2f160-b0f8-4c13-8a68-450b9df1737d/20250101T234634/c7b2f160-b0f8-4c13-8a68-450b9df1737d_1140x641.jpg",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2025-01-01T18:15:00-06:00",
+      "addDate": "2025-01-02T00:22:57.819415+00:00",
+      "refreshDate": "2025-01-02T00:22:57.819417+00:00",
+      "score": 1,
+      "title": "Fired SLDC exec claims retaliation over federal fund warnings, sues for whistleblower protection",
+      "description": "Former chief says she voiced concerns about pandemic relief spending, unauthorized meetings before sudden termination from development agency",
+      "content": "Former chief says she voiced concerns about pandemic relief spending, unauthorized meetings before sudden termination from development agency\n\nST. LOUIS, Missouri — A former senior executive at the St... [3398 symbols]",
+      "medium": "Article",
+      "links": [],
+      "labels": [],
+      "matchedAuthors": [
+        {
+          "id": "390c61abff7f41248c84f7baeb9a09bc",
+          "name": "Mark Maxwell"
+        }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "federal fund warnings",
+          "weight": 0.09014089
+        },
+        {
+          "name": "North St. Louis",
+          "weight": 0.08310965
+        },
+        {
+          "name": "St. Louis",
+          "weight": 0.08187464
+        },
+        {
+          "name": "federal regulations",
+          "weight": 0.08118138
+        },
+        {
+          "name": "St. Louis Circuit Court",
+          "weight": 0.07735302
+        },
+        {
+          "name": "SLDC President Neal Richardson",
+          "weight": 0.077095516
+        },
+        {
+          "name": "SLDC officials",
+          "weight": 0.0725249
+        },
+        {
+          "name": "Fired SLDC exec",
+          "weight": 0.07213222
+        },
+        {
+          "name": "federal noncompliance",
+          "weight": 0.07186647
+        },
+        {
+          "name": "SLDC",
+          "weight": 0.07071711
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        },
+        {
+          "name": "Lawsuits"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Business"
+        }
+      ],
+      "entities": [
+        {
+          "data": "SLDC",
+          "type": "ORG",
+          "mentions": 7
+        },
+        {
+          "data": "the St. Louis Development Corporation",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "Community Development Agency",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "the North St. Louis City Commercial Corridors Program",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "ST. LOUIS",
+          "type": "GPE",
+          "mentions": 3
+        },
+        {
+          "data": "Missouri",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "D-8th Ward",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Daffney Moore",
+          "type": "PERSON",
+          "mentions": 6
+        },
+        {
+          "data": "Neal Richardson",
+          "type": "PERSON",
+          "mentions": 3
+        },
+        {
+          "data": "Bill Seddon",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Howard Smith",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Cara Spencer",
+          "type": "PERSON",
+          "mentions": 2
+        },
+        {
+          "data": "Sonnier",
+          "type": "PERSON",
+          "mentions": 3
+        },
+        {
+          "data": "night",
+          "type": "TIME",
+          "mentions": 1
+        }
+      ],
+      "companies": [],
+      "sentiment": {
+        "positive": 0.026762212,
+        "negative": 0.85729986,
+        "neutral": 0.11593796
+      },
+      "summary": "Former St. Louis Development Corporation (SLDC) Chief of Staff, Daffney Moore, has filed a lawsuit against the agency claiming she was fired for reporting violations of federal regulations regarding federal funds in the administration of COVID-19 relief funds. Moore alleges that she was terminated after raising concerns about unauthorized meetings between SLDC officials and potential awardees regarding a commercial development project. The lawsuit alleges that Moore was placed on a \"final warning\" in November 2022, despite receiving a promotion and praise from SLDC President Neal Richardson two months earlier. It also alleges that Richardson made spending decisions on consultants without board approval and misrepresented how much money was available for the project when presenting proposals to the SLDC Board. Alderwoman Cara Spencer (D-8th Ward), who resigned her position on the board at SLDC in protest over a lack of transparency, called the agency's lack of oversight \"beyond worrisome\" and putting federal funds at serious risk.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [
+        {
+          "country": "us",
+          "state": "MO"
+        },
+        {
+          "country": "us",
+          "state": "MO",
+          "city": "St. Louis",
+          "area": "Old North Saint Louis"
+        },
+        {
+          "country": "us",
+          "state": "MO",
+          "city": "St. Louis"
+        }
+      ],
+      "reprint": false,
+      "reprintGroupId": "480b7b387ac047ea8884cd39b17b9ab1",
+      "places": [],
+      "people": [
+        {
+          "wikidataId": "Q107484991",
+          "name": "Howard Philips Smith"
+        }
+      ]
+    },
+    {
+      "url": "https://nypost.com/2024/12/31/business/geoffrey-hinton-backs-elon-musks-legal-battle-against-openai/",
+      "authorsByline": "Taylor Herzlich",
+      "articleId": "4236de28ae354bf8bce2d9141feddf29",
+      "clusterId": "1e8580f0a55f47da99eeca3e63369554",
+      "source": {
+        "domain": "nypost.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "NY",
+          "city": "New York",
+          "coordinates": {
+            "lat": 40.7127281,
+            "lon": -74.0060152
+          }
+        }
+      },
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2024/12/elon-musk-walks-capitol-hill-96038449.jpg?quality=75&strip=all&w=1024",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-12-31T17:26:43+00:00",
+      "addDate": "2024-12-31T17:28:59.973482+00:00",
+      "refreshDate": "2024-12-31T17:28:59.973483+00:00",
+      "score": 1,
+      "title": "‘Godfather of artificial intelligence’ Geoffrey Hinton backs Elon Musk’s OpenAI legal battle",
+      "description": "Geoffrey Hinton is known for his work developing artificial neural networks, the foundation for AI, and won the 2024 Nobel Prize in physics in October.",
+      "content": "Geoffrey Hinton, the prominent data scientist known as the “Godfather of artificial intelligence,” is backing Elon Musk in his legal attempt to block OpenAI from switching to a for-profit company.\n\nHi... [3074 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://nypost.com/2024/12/30/business/matt-lauer-targeted-by-peta-for-alleged-abuse-by-sheep-farmers-at-his-9m-new-zealand-hideaway/",
+        "https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html",
+        "https://nypost.com/2024/12/30/business/bezos-ex-mackenzie-scotts-massive-charity-gifts-dont-provide-long-term-sustainability-report/",
+        "https://openai.com/index/elon-musk-wanted-an-openai-for-profit/",
+        "https://encodeai.org/encode-backs-legal-challenge-to-openais-for-profit-switch/",
+        "https://nypost.com/2023/05/01/godfather-of-ai-quits-google-and-says-he-regrets-lifes-work/",
+        "https://nypost.com/2024/12/30/business/former-modells-owner-wants-to-save-bankrupt-retailers-party-city-big-lots-our-goal-is-to-save-33k-jobs/",
+        "https://nypost.com/2024/12/27/business/openai-needs-more-capital-than-wed-imagined-as-it-details-for-profit-plan/"
+      ],
+      "labels": [],
+      "matchedAuthors": [
+        {
+          "id": null,
+          "name": "Taylor Herzlich"
+        }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "OpenAI executives",
+          "weight": 0.09880281
+        },
+        {
+          "name": "OpenAI",
+          "weight": 0.09690604
+        },
+        {
+          "name": "profit",
+          "weight": 0.07810013
+        },
+        {
+          "name": "profits",
+          "weight": 0.07810013
+        },
+        {
+          "name": "Geoffrey Hinton",
+          "weight": 0.07722282
+        },
+        {
+          "name": "Co-founder Musk",
+          "weight": 0.077063106
+        },
+        {
+          "name": "Hinton",
+          "weight": 0.07306726
+        },
+        {
+          "name": "Elon Musk",
+          "weight": 0.07239624
+        },
+        {
+          "name": "public safety",
+          "weight": 0.069745004
+        },
+        {
+          "name": "Elon Musk’s OpenAI legal battle",
+          "weight": 0.06748788
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        },
+        {
+          "name": "AI"
+        },
+        {
+          "name": "Governance-ESG"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Tech"
+        },
+        {
+          "name": "Business"
+        }
+      ],
+      "entities": [
+        {
+          "data": "Geoffrey Hinton",
+          "type": "PERSON",
+          "mentions": 6
+        },
+        {
+          "data": "Elon Musk’s",
+          "type": "PERSON",
+          "mentions": 7
+        },
+        {
+          "data": "Sam Altman",
+          "type": "PERSON",
+          "mentions": 2
+        },
+        {
+          "data": "OpenAI",
+          "type": "ORG",
+          "mentions": 15
+        },
+        {
+          "data": "Hinton",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "Encode",
+          "type": "ORG",
+          "mentions": 4
+        },
+        {
+          "data": "Google",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "The New York Times",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Microsoft",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "xAI",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "the 2024 Nobel Prize",
+          "type": "WORK_OF_ART",
+          "mentions": 1
+        }
+      ],
+      "companies": [
+        {
+          "id": "3da3d976cc30427e980d2488aa153148",
+          "name": "Google AI (Alphabet)",
+          "domains": [
+            "ai.google"
+          ],
+          "symbols": []
+        },
+        {
+          "id": "6d688831f698495281098a1d24465e33",
+          "name": "OpenAI",
+          "domains": [
+            "openai.com"
+          ],
+          "symbols": []
+        }
+      ],
+      "sentiment": {
+        "positive": 0.050949223,
+        "negative": 0.73063606,
+        "neutral": 0.21841478
+      },
+      "summary": "Geoffrey Hinton, the renowned data scientist known as the “Godfather of artificial intelligence” and the 2024 Nobel Prize in physics, is supporting Elon Musk in a legal bid to prevent OpenAI from switching from being a for-profit company to a more traditional non-profit structure. Hinton argued that OpenAI was founded as a safety-focused non-organised non-profits and received numerous tax and other benefits from its non-professional status. He also warned that the move would undermine OpenAI's commitment to prioritizing public safety. Co-founder Musk, who cut ties with OpenAI in 2018, is seeking to block the change. Encode, a youth-led advocacy group for human-centered AI, has also filed an amicus brief in support of the lawsuit against OpenAI’s move.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "88d2f8663fff449987e4a0168a4a8132",
+      "places": [],
+      "people": [
+        {
+          "wikidataId": "Q7407093",
+          "name": "Sam Altman"
+        },
+        {
+          "wikidataId": "Q317521",
+          "name": "Elon Musk"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ibj.com/articles/community-health-to-pay-another-145m-in-whistleblower-case-including-6-3m-to-former-cfo",
+      "authorsByline": "",
+      "articleId": "c69243d15fb14700adc13518a03804fb",
+      "clusterId": "0d99adca31714ae49ff8623c2649406e",
+      "source": {
+        "domain": "ibj.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "IN",
+          "county": "Marion County",
+          "city": "Indianapolis",
+          "coordinates": {
+            "lat": 39.7683331,
+            "lon": -86.1583502
+          }
+        }
+      },
+      "imageUrl": "https://cdn.ibj.com/wp-content/uploads/2023/12/community-health.jpeg",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-12-31T07:45:44+00:00",
+      "addDate": "2024-12-31T07:50:01.953098+00:00",
+      "refreshDate": "2024-12-31T07:50:01.953100+00:00",
+      "score": 1,
+      "title": "Community Health to pay another $145M in whistleblower case, including $6.3M to former CFO",
+      "description": "The amount is in addition to the $345 million that Community Health Network paid in December 2023 to settle much of the case with the U.S. Department of Justice.",
+      "content": "Community Health Network has agreed to pay out another $145 million to settle claims that it engaged in a years-long scheme to recruit physicians and pay them huge salaries and bonuses in return for r... [5533 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.ibj.com/articles/community-health-agrees-to-pay-345m-to-settle-false-claims-suit"
+      ],
+      "labels": [],
+      "matchedAuthors": [],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "Community Health",
+          "weight": 0.10617984
+        },
+        {
+          "name": "Community Health Network",
+          "weight": 0.101360545
+        },
+        {
+          "name": "Community",
+          "weight": 0.098014906
+        },
+        {
+          "name": "Community officials",
+          "weight": 0.09513959
+        },
+        {
+          "name": "Community spokeswoman Kris Kirschner",
+          "weight": 0.086608835
+        },
+        {
+          "name": "physician compensation",
+          "weight": 0.081102595
+        },
+        {
+          "name": "Thomas Fischer",
+          "weight": 0.0672578
+        },
+        {
+          "name": "local physicians",
+          "weight": 0.067035034
+        },
+        {
+          "name": "Fischer",
+          "weight": 0.066792496
+        },
+        {
+          "name": "physicians",
+          "weight": 0.06645184
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Business"
+        }
+      ],
+      "entities": [
+        {
+          "data": "Community Health",
+          "type": "ORG",
+          "mentions": 26
+        },
+        {
+          "data": "the U.S. Department of Justice",
+          "type": "ORG",
+          "mentions": 5
+        },
+        {
+          "data": "District Court",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "IBJ",
+          "type": "ORG",
+          "mentions": 3
+        },
+        {
+          "data": "Fischer",
+          "type": "ORG",
+          "mentions": 5
+        },
+        {
+          "data": "Katz, Sapper & Miller",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Sullivan Cotter",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Mills",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "the Office of Inspector General",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "DOJ",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Thomas Fischer",
+          "type": "PERSON",
+          "mentions": 7
+        },
+        {
+          "data": "Kris Kirschner",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "afternoon",
+          "type": "TIME",
+          "mentions": 1
+        },
+        {
+          "data": "evening",
+          "type": "TIME",
+          "mentions": 1
+        },
+        {
+          "data": "U.S.",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Indianapolis",
+          "type": "GPE",
+          "mentions": 4
+        },
+        {
+          "data": "Chicago",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "the Stark Law",
+          "type": "LAW",
+          "mentions": 2
+        }
+      ],
+      "companies": [
+        {
+          "id": "fcd444507695415e8d2286d507b78179",
+          "name": "Community Health Systems, Inc.",
+          "domains": [
+            "chs.net"
+          ],
+          "symbols": [
+            "CYH"
+          ]
+        }
+      ],
+      "sentiment": {
+        "positive": 0.06538248,
+        "negative": 0.687987,
+        "neutral": 0.24663046
+      },
+      "summary": "Community Health Network (CBN) has agreed to pay another $145 million to settle claims that it engaged in a years-long scheme to recruit physicians and pay them high salaries and bonuses in return for referrals. The payment includes $6.3 million to Community’s former CFO, Thomas Fischer, who claimed he was fired in 2013 in retaliation for questioning the large salaries paid to recruit doctors. This is in addition to the $345 million Community Health paid to settle much of the case with the U.S. Department of Justice. The government had claimed that senior management at Community recruited hundreds of local physicians as far back as 2008 and paid them salaries significantly higher, sometimes double, than they were receiving in their former practices. The Justice Department had alleged that the compensation that Community paid to its cardiologists, cardiothoracic surgeons, vascular surgeons, neurosurgeons and breast surgeons was “well above fair market value” and that Community awarded bonuses based on the number of their referrals.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [
+        {
+          "country": "us",
+          "state": "IN",
+          "city": "Indianapolis"
+        }
+      ],
+      "reprint": false,
+      "reprintGroupId": "52309f8a6f044a38be5129927a613a6b",
+      "places": [],
+      "people": []
+    },
+    {
+      "url": "https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-new-jersey-lawsuit-mta/",
+      "authorsByline": "By\n                        \n                      Mark Prussin, \n                              \n                      Jesse Zanger",
+      "articleId": "df5a7cf6cdac4838a0746e0374e1395c",
+      "clusterId": "7dd3c62d51a742f487cfbde3195754b6",
+      "source": {
+        "domain": "cbsnews.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "NY",
+          "city": "New York",
+          "coordinates": {
+            "lat": 40.7127281,
+            "lon": -74.0060152
+          }
+        }
+      },
+      "imageUrl": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/15/df2f875f-fb06-4aca-bb7f-e7b2e8e8e6d8/thumbnail/1200x630/b683ede22d2dd83062fe0de0e6ec9abe/gettyimages-1866653990.jpg?v=fa9977353833f46f40b07abcd9d5240b",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-12-30T19:04:00-05:00",
+      "addDate": "2024-12-31T00:11:39.202976+00:00",
+      "refreshDate": "2024-12-31T00:11:39.202978+00:00",
+      "score": 1,
+      "title": "Congestion pricing ruling in New Jersey will not delay start date, MTA CEO says",
+      "description": "New York City congestion pricing will start this weekend as planned, MTA Chair and CEO Janno Lieber says, despite a New Jersey judge partially siding with some who sought to delay it.",
+      "content": "MTA says it has the right to hike congestion pricing toll 25% on gridlock alert days\n\nMTA says it has the right to hike congestion pricing toll 25% on gridlock alert days\n\nMTA says it has the right to... [3927 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.cbsnews.com/newyork/news/south-brooklyn-congestion-pricing-unfair/",
+        "https://www.cbsnews.com/newyork/news/congestion-pricing-new-york-city-kathy-hochul-nicole-malliotakis/",
+        "https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-delay-nj-reaction/",
+        "https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-new-start-date/",
+        "https://www.cbsnews.com/team/mark-prussin/",
+        "https://www.cbsnews.com/newyork/news/nycs-congestion-pricing-clears-final-legislative-hurdle/",
+        "https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-exemptions-for-government-vehicles-and-school-buses/",
+        "https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-gridlock-alert-days-toll-charge/",
+        "https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-lawsuits-federal-judge-ruling/",
+        "https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-governor-hochul/"
+      ],
+      "labels": [],
+      "matchedAuthors": [
+        {
+          "id": "3667a151f2424445aeab7aaafb01ac23",
+          "name": "Jesse Zanger"
+        },
+        {
+          "id": null,
+          "name": "By\n                        \n                      Mark Prussin"
+        }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "New York congestion pricing",
+          "weight": 0.11177716
+        },
+        {
+          "name": "New York City congestion pricing",
+          "weight": 0.105711415
+        },
+        {
+          "name": "congestion pricing toll",
+          "weight": 0.10449795
+        },
+        {
+          "name": "Congestion pricing",
+          "weight": 0.097213745
+        },
+        {
+          "name": "congestion pricing",
+          "weight": 0.097213745
+        },
+        {
+          "name": "Congestion pricing ruling",
+          "weight": 0.093044974
+        },
+        {
+          "name": "New Jersey",
+          "weight": 0.091372915
+        },
+        {
+          "name": "New York",
+          "weight": 0.08889573
+        },
+        {
+          "name": "New York City",
+          "weight": 0.08433415
+        },
+        {
+          "name": "New Yorkers",
+          "weight": 0.07752164
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Business"
+        },
+        {
+          "name": "General"
+        }
+      ],
+      "entities": [
+        {
+          "data": "New Jersey",
+          "type": "GPE",
+          "mentions": 5
+        },
+        {
+          "data": "NEW YORK",
+          "type": "GPE",
+          "mentions": 6
+        },
+        {
+          "data": "Manhattan",
+          "type": "GPE",
+          "mentions": 4
+        },
+        {
+          "data": "Holland",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Williamsburg",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Brooklyn",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Queensboro",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "MTA",
+          "type": "ORG",
+          "mentions": 11
+        },
+        {
+          "data": "the Federal Highway Administration",
+          "type": "ORG",
+          "mentions": 3
+        },
+        {
+          "data": "FHWA",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "Lieber",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "the United Federation of Teachers",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "the U.S. Trucking Association of New York",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "New Yorkers Against Congestion Pricing Tax",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Janno Lieber",
+          "type": "PERSON",
+          "mentions": 2
+        },
+        {
+          "data": "Gordon",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Randy Mastro",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Donald Trump",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Mike Lawler",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Kathy Hochul",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "60th Street",
+          "type": "FAC",
+          "mentions": 2
+        },
+        {
+          "data": "Lincoln",
+          "type": "FAC",
+          "mentions": 1
+        },
+        {
+          "data": "Hugh L. Carey",
+          "type": "FAC",
+          "mentions": 1
+        },
+        {
+          "data": "Queens Midtown",
+          "type": "FAC",
+          "mentions": 1
+        },
+        {
+          "data": "daytime",
+          "type": "TIME",
+          "mentions": 1
+        },
+        {
+          "data": "5 a.m.-9 p.m.",
+          "type": "TIME",
+          "mentions": 1
+        },
+        {
+          "data": "overnight",
+          "type": "TIME",
+          "mentions": 1
+        },
+        {
+          "data": "an E-ZPass",
+          "type": "PRODUCT",
+          "mentions": 1
+        }
+      ],
+      "companies": [
+        {
+          "id": "024e3248ecc14da9994106660f7938a2",
+          "name": "Manchester Transit Authority",
+          "domains": [
+            "mtabus.org"
+          ],
+          "symbols": []
+        },
+        {
+          "id": "e550687f734f4394ae9b21075cfa5bf6",
+          "name": "MTA Bridges and Tunnels",
+          "domains": [
+            "new.mta.info"
+          ],
+          "symbols": []
+        }
+      ],
+      "sentiment": {
+        "positive": 0.09522956,
+        "negative": 0.55745417,
+        "neutral": 0.34731624
+      },
+      "summary": "New York City's Metropolitan Transportation Authority (MTA) has stated it has the right to raise congestion pricing toll 25% on gridlock alert days. Despite a New Jersey judge partially agreeing with the MTA's plan to implement congestion pricing, the agency plans to charge drivers $9 to enter Manhattan below 60th Street starting Sunday, Jan. 5, 2025. The decision does not interfere with the program's scheduled implementation. However, New Jersey's attorney, Randy Mastro, argues that the MTA cannot proceed with implementing the current congestion pricing proposal due to ongoing litigation. Two New York federal judges have already refused to delay congestion pricing. If President-elect Donald Trump takes office, he may kill the plan.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [
+        {
+          "country": "us",
+          "state": "NY",
+          "city": "New York"
+        }
+      ],
+      "reprint": false,
+      "reprintGroupId": "df2ebb90a6e64e47ab718ef8cbdcea98",
+      "places": [
+        {
+          "osmId": "5348408125",
+          "road": "East 60th Street",
+          "suburb": "Manhattan",
+          "city": "New York",
+          "county": "New York County",
+          "state": "New York",
+          "postcode": "10022",
+          "country": "United States",
+          "countryCode": "us",
+          "neighbourhood": "Manhattan Community Board 8",
+          "coordinates": {
+            "lat": 40.7610564,
+            "lon": -73.9632406
+          }
+        }
+      ],
+      "people": [
+        {
+          "wikidataId": "Q45956",
+          "name": "Kathy Hochul"
+        },
+        {
+          "wikidataId": "Q105179052",
+          "name": "Mike Lawler"
+        },
+        {
+          "wikidataId": "Q22686",
+          "name": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "url": "https://www.billboard.com/pro/richard-parsons-dead-time-warner-ceo-warner-music-dies/",
+      "authorsByline": "Associated Press / Billboard Staff",
+      "articleId": "0868de5d2e714cc18b2b53ffc31269a4",
+      "clusterId": "deaa42ddfb6742a3aa57d33ebdbd2658",
+      "source": {
+        "domain": "billboard.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "NY",
+          "city": "New York",
+          "coordinates": {
+            "lat": 40.7127281,
+            "lon": -74.0060152
+          }
+        }
+      },
+      "imageUrl": "https://www.billboard.com/wp-content/uploads/media/richard-parsons-2016-u-billboard-1548.jpg?w=1024",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-12-27T14:01:11+00:00",
+      "addDate": "2024-12-27T14:05:53.638643+00:00",
+      "refreshDate": "2024-12-27T14:05:53.638645+00:00",
+      "score": 1,
+      "title": "Richard Parsons, Ex-Time Warner CEO Who Orchestrated Sale of Warner Music, Dies at 76",
+      "description": "Richard Parsons, one of corporate America’s most prominent Black executives who held top posts at Time Warner and Citigroup, died Thursday. He was 76.",
+      "content": "Richard Parsons, one of corporate America’s most prominent Black executives who held top posts at Time Warner and Citigroup, died Thursday. He was 76.\n\nParsons, who died at his Manhattan home, was dia... [6665 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.billboard.com/music/music-news/jay-david-saks-dead-producer-classical-broadway-1235866055/"
+      ],
+      "labels": [
+        {
+          "name": "Pop Culture"
+        }
+      ],
+      "matchedAuthors": [],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "Time Warner",
+          "weight": 0.09132688
+        },
+        {
+          "name": "Time Warner chairman",
+          "weight": 0.08966504
+        },
+        {
+          "name": "Time Warner successor Warner Bros. Discovery",
+          "weight": 0.088024236
+        },
+        {
+          "name": "Ex-Time Warner",
+          "weight": 0.08231139
+        },
+        {
+          "name": "Dick Parsons",
+          "weight": 0.081686676
+        },
+        {
+          "name": "Parsons",
+          "weight": 0.08085212
+        },
+        {
+          "name": "Ex-Time Warner CEO",
+          "weight": 0.07997594
+        },
+        {
+          "name": "Richard Parsons",
+          "weight": 0.07891866
+        },
+        {
+          "name": "Warner Music",
+          "weight": 0.07216465
+        },
+        {
+          "name": "Warner Music Group",
+          "weight": 0.068902306
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        },
+        {
+          "name": "In Memoriam"
+        },
+        {
+          "name": "Music"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Entertainment"
+        },
+        {
+          "name": "Business"
+        }
+      ],
+      "entities": [
+        {
+          "data": "Richard Parsons",
+          "type": "PERSON",
+          "mentions": 24
+        },
+        {
+          "data": "Ronald Lauder",
+          "type": "PERSON",
+          "mentions": 4
+        },
+        {
+          "data": "Dick",
+          "type": "PERSON",
+          "mentions": 4
+        },
+        {
+          "data": "David Zaslav",
+          "type": "PERSON",
+          "mentions": 2
+        },
+        {
+          "data": "Edgar Bronfman Jr.",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Carl Icahn",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Robert Pittman",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Gerald Levin",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Steve Case",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Steve Ballmer",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Adam Silver",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Nelson Rockefeller",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Gerald Ford’s",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Barack Obama",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Laura",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Ex-Time Warner",
+          "type": "ORG",
+          "mentions": 15
+        },
+        {
+          "data": "Warner Music",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "Citigroup",
+          "type": "ORG",
+          "mentions": 5
+        },
+        {
+          "data": "Lazard",
+          "type": "ORG",
+          "mentions": 4
+        },
+        {
+          "data": "The New York Times",
+          "type": "ORG",
+          "mentions": 5
+        },
+        {
+          "data": "Estée Lauder",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "America Online",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "CBS",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "AOL",
+          "type": "ORG",
+          "mentions": 7
+        },
+        {
+          "data": "Seagram",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Comedy Central",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "DirecTV",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Thrashers",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Microsoft",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "Dime Bancorp Inc.",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "Citibank",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "NBA",
+          "type": "ORG",
+          "mentions": 2
+        },
+        {
+          "data": "Los Angeles Clippers",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "White House",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "the Apollo Theater",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "the Museum of Modern Art",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Albany Law School",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "America",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Manhattan",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Brooklyn",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Atlanta",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "U.S.",
+          "type": "GPE",
+          "mentions": 2
+        },
+        {
+          "data": "New York",
+          "type": "GPE",
+          "mentions": 2
+        },
+        {
+          "data": "American",
+          "type": "NORP",
+          "mentions": 3
+        },
+        {
+          "data": "Republican",
+          "type": "NORP",
+          "mentions": 2
+        },
+        {
+          "data": "Harlem",
+          "type": "LOC",
+          "mentions": 1
+        }
+      ],
+      "companies": [
+        {
+          "id": "b42200ad84194243a3a6239973d1a34e",
+          "name": "AOL",
+          "domains": [
+            "aol.com"
+          ],
+          "symbols": []
+        },
+        {
+          "id": "511287a53bba4761b13dfb354a808647",
+          "name": "Time Warner Inc.",
+          "domains": [
+            "warnermedia.com"
+          ],
+          "symbols": []
+        },
+        {
+          "id": "c3dcab4b4e4742749b00ec3b400ea9b1",
+          "name": "Citibank",
+          "domains": [
+            "citi.com"
+          ],
+          "symbols": []
+        },
+        {
+          "id": "17ce561c11c8475f8c7f6c78c6e95c5d",
+          "name": "Warner Music Group Corp.",
+          "domains": [
+            "wmg.com"
+          ],
+          "symbols": [
+            "WMG"
+          ]
+        },
+        {
+          "id": "afa006d838884d5ea91030846bce032d",
+          "name": "Citigroup Inc.",
+          "domains": [
+            "citigroup.com"
+          ],
+          "symbols": [
+            "C",
+            "C-PJ",
+            "C-PK",
+            "TRVC.DE"
+          ]
+        },
+        {
+          "id": "033e276c7518409a8d1034d89f56ad3e",
+          "name": "Warner Music Singapore",
+          "domains": [
+            "warnermusic.com.sg"
+          ],
+          "symbols": []
+        }
+      ],
+      "sentiment": {
+        "positive": 0.15380548,
+        "negative": 0.48867348,
+        "neutral": 0.35752112
+      },
+      "summary": "Richard Parsons, one of corporate America's most prominent Black executives, has died at the age of 76. Parsons, who held top positions at Time Warner and Citigroup, was diagnosed with multiple myeloma in 2015 and later cut back on work due to complications from the disease. He was a longtime board member of Lazard and Estée Lauder, where he stepped down from the boards due to health reasons. Parsons was known for his ability to navigate big companies through tough times and successfully sold Warner Music Group to an investor group led by Edgar Bronfman Jr. He also helped rebuild Time Warner's relationship with Wall Street and secured a $750 million settlement from Microsoft to resolve an antitrust lawsuit.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "78b9cefc667440ad84f4081dc4de0485",
+      "places": [],
+      "people": [
+        {
+          "wikidataId": "Q181162",
+          "name": "Steve Ballmer"
+        },
+        {
+          "wikidataId": "Q981479",
+          "name": "Carl Icahn"
+        },
+        {
+          "wikidataId": "Q699565",
+          "name": "Ronald Lauder"
+        },
+        {
+          "wikidataId": "Q4679786",
+          "name": "Adam Silver"
+        },
+        {
+          "wikidataId": "Q5549359",
+          "name": "Gerald M. Levin"
+        },
+        {
+          "wikidataId": "Q7348924",
+          "name": "Robert Pittman"
+        },
+        {
+          "wikidataId": "Q562917",
+          "name": "Steve Case"
+        },
+        {
+          "wikidataId": "Q76",
+          "name": "Barack Obama"
+        },
+        {
+          "wikidataId": "Q2149305",
+          "name": "Richard Parsons"
+        },
+        {
+          "wikidataId": "Q328520",
+          "name": "Edgar Bronfman, Jr."
+        }
+      ]
+    },
+    {
+      "url": "https://www.usatoday.com/story/news/nation/2024/12/25/sex-victims-question-timing-abercrombie-ex-ceo-mike-jeffries-dementia/77212530007/",
+      "authorsByline": "Michael Loria",
+      "articleId": "fa8354b8aaf24efea72e245bdee2b3ff",
+      "clusterId": "c97f5b2c70e84b21a0dd7fc316de696e",
+      "source": {
+        "domain": "usatoday.com",
+        "paywall": false,
+        "location": {
+          "country": "us",
+          "state": "VA",
+          "county": "Fairfax County",
+          "city": "McLean",
+          "coordinates": {
+            "lat": 38.9342888,
+            "lon": -77.1776327
+          }
+        }
+      },
+      "imageUrl": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/26/USAT/76578106007-michael-jeffries.jpg?crop=1048,590,x0,y243&width=1048&height=590&format=pjpg&auto=webp",
+      "country": "us",
+      "language": "en",
+      "pubDate": "2024-12-25T19:09:47+00:00",
+      "addDate": "2024-12-25T19:12:35.066153+00:00",
+      "refreshDate": "2024-12-25T19:12:35.066154+00:00",
+      "score": 1,
+      "title": "Ex CEO's Alzheimer's diagnosis amid sex crime charges 'suspicious,' victims' lawyer says",
+      "description": "A lawyer for sex-trafficking victims in a ring allegedly run by ex-Abercrombie & Fitch CEO Mike Jeffries has doubts about claims he has dementia.",
+      "content": "An attorney representing once-aspiring male models trafficked for sex in an international scheme allegedly orchestrated by ex-Abercrombie & Fitch CEO Mike Jeffries is questioning claims that the 80-ye... [5056 symbols]",
+      "medium": "Article",
+      "links": [
+        "https://www.usatoday.com/story/business/2023/10/27/lawsuit-sexual-exploitation-at-abercrombie-by-former-ceo-jeffries/71346256007/",
+        "https://www.usatoday.com/videos/money/business/2024/07/18/abercrombie-fitch-rebounds-from-its-downfall-by-focusing-on-young-adults/74454354007/",
+        "https://www.usatoday.com/picture-gallery/news/2012/09/09/the-day-in-pictures/1410095/",
+        "https://www.usatoday.com/story/news/nation/2023/10/03/abercrombie-investigate-allegations-sexual-exploitation-mike-jeffries/71044947007/",
+        "https://www.usatoday.com/story/news/nation/2024/07/29/end-human-trafficking-the-excerpt/74589303007/",
+        "https://www.usatoday.com/story/news/nation/2024/10/22/former-abercrombie-ceo-mike-jeffries-charges/75790462007/",
+        "https://www.justice.gov/usao-edny/meet-us-attorney",
+        "https://www.usatoday.com/story/news/health/2024/11/11/alzheimers-13million-2050-the-excerpt/76198068007/"
+      ],
+      "labels": [],
+      "matchedAuthors": [
+        {
+          "id": null,
+          "name": "Michael Loria"
+        }
+      ],
+      "claim": "",
+      "verdict": "",
+      "keywords": [
+        {
+          "name": "Mike Jeffries",
+          "weight": 0.07725174
+        },
+        {
+          "name": "sex crime charges",
+          "weight": 0.076725304
+        },
+        {
+          "name": "Mr. Jeffries",
+          "weight": 0.075609826
+        },
+        {
+          "name": "Jeffries",
+          "weight": 0.07528299
+        },
+        {
+          "name": "young men",
+          "weight": 0.075005785
+        },
+        {
+          "name": "Sex trafficking male models",
+          "weight": 0.073829755
+        },
+        {
+          "name": "sex trafficking",
+          "weight": 0.07088256
+        },
+        {
+          "name": "men",
+          "weight": 0.06950745
+        },
+        {
+          "name": "commercial sex",
+          "weight": 0.06833781
+        },
+        {
+          "name": "Heterosexual men",
+          "weight": 0.06830206
+        }
+      ],
+      "topics": [
+        {
+          "name": "Business Leaders"
+        }
+      ],
+      "categories": [
+        {
+          "name": "Health"
+        },
+        {
+          "name": "Business"
+        }
+      ],
+      "entities": [
+        {
+          "data": "Abercrombie & Fitch",
+          "type": "ORG",
+          "mentions": 5
+        },
+        {
+          "data": "USA TODAY",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Jeffries",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Peace",
+          "type": "ORG",
+          "mentions": 4
+        },
+        {
+          "data": "FBI",
+          "type": "ORG",
+          "mentions": 1
+        },
+        {
+          "data": "Mike Jeffries",
+          "type": "PERSON",
+          "mentions": 13
+        },
+        {
+          "data": "Brad Edwards",
+          "type": "PERSON",
+          "mentions": 4
+        },
+        {
+          "data": "Brian Bieber",
+          "type": "PERSON",
+          "mentions": 5
+        },
+        {
+          "data": "Matthew Smith",
+          "type": "PERSON",
+          "mentions": 5
+        },
+        {
+          "data": "James Jacobson",
+          "type": "PERSON",
+          "mentions": 2
+        },
+        {
+          "data": "Breon Peace",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "John Does",
+          "type": "PERSON",
+          "mentions": 1
+        },
+        {
+          "data": "Master’s degree",
+          "type": "WORK_OF_ART",
+          "mentions": 1
+        },
+        {
+          "data": "the Eastern District",
+          "type": "GPE",
+          "mentions": 2
+        },
+        {
+          "data": "West Palm Beach",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Wisconsin",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "New York",
+          "type": "GPE",
+          "mentions": 3
+        },
+        {
+          "data": "U.S.",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Hamptons",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "England",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "France",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Italy",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "Morocco",
+          "type": "GPE",
+          "mentions": 1
+        },
+        {
+          "data": "St. Barts",
+          "type": "FAC",
+          "mentions": 1
+        }
+      ],
+      "companies": [
+        {
+          "id": "51ba348e69ce4ab79ecee5ef7a1dfd69",
+          "name": "Abercrombie & Fitch Co.",
+          "domains": [
+            "abercrombie.com"
+          ],
+          "symbols": [
+            "0R32.L",
+            "ANF"
+          ]
+        }
+      ],
+      "sentiment": {
+        "positive": 0.05938023,
+        "negative": 0.70940745,
+        "neutral": 0.2312123
+      },
+      "summary": "Former CEO of Abercrombie & Fitch, Mike Jeffries, along with two others charged with sex trafficking and engaging in interstate prostitution for allegedly orchestrating an international scheme that involved coercing dozens of men into sex for modeling jobs with the company. The scheme, which lasted for years and involved dozens of victims, was allegedly orchestrated by Jeffries and Matthew Smith. The former CEO, who ran the clothing company from 1992 to 2014, is also facing a class-action lawsuit from victims alleging that the retailer knew of the operation and looked the other way. Jeffries' attorney, Brian Bieber, stated in court filings that a neuropsychologist diagnosed Jeffries with Lewy Body Dementia and late-onset Alzheimer’s. He argued that Jeffries’ health issues mean he cannot assist in his own defense and therefore cannot be tried.",
+      "translation": "",
+      "translatedTitle": "",
+      "translatedDescription": "",
+      "translatedSummary": "",
+      "locations": [],
+      "reprint": false,
+      "reprintGroupId": "7325d01faec24529993fc8e9cb816aa9",
+      "places": [],
+      "people": [
+        {
+          "wikidataId": "Q1762431",
+          "name": "Mike Jeffries"
+        },
+        {
+          "wikidataId": "Q2240092",
+          "name": "Freddie Smith"
+        }
+      ]
+    }
+  ]
+}
