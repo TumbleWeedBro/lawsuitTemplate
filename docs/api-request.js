@@ -12,26 +12,23 @@ const businessUpdatesUrl= `https://api.goperigon.com/v1/all?apiKey=${apiKey}&sho
 let searchQueryParam = "";
 const searchQueryUrl = `api.goperigon.com/v1/all?apiKey=[KEY]&from=2025-01-06&sourceGroup=top100&showNumResults=true&showReprints=false&paywall=false&excludeLabel=Non-news&excludeLabel=Opinion&excludeLabel=Paid News&excludeLabel=Roundup&excludeLabel=Press Release&sortBy=relevance&q=${searchQueryParam}`;
 
-// latest updates
-getArticles(latestUpdatesUrl, "latestUpdates.json");
 
-// relevant results
-getArticles(relevantResultsUrl, "relevantResults.json");
+// Fetch articles in order
+async function fetchArticlesInOrder() {
+  await getArticles(latestUpdatesUrl, "latestUpdates.json");
+  await getArticles(relevantResultsUrl, "relevantResults.json");
+  await getArticles(businessUpdatesUrl, "businessUpdates.json");
+}
 
-// business updates
-getArticles(businessUpdatesUrl, "businessUpdates.json");
-
-async function getArticles(url, fileName)
-{
+async function getArticles(url, fileName) {
   await axios.get(url)
-  .then((response) => {
-    const data = response.data;
-    storeArticles(fileName, data);
-  })
-  .catch((error) => {
-    console.log(error);
-  });
-
+    .then((response) => {
+      const data = response.data;
+      storeArticles(fileName, data);
+    })
+    .catch((error) => {
+      console.log(error);
+    });
 }
 
 function storeArticles(keyName, data) {
@@ -43,4 +40,5 @@ function storeArticles(keyName, data) {
   }
 }
 
+fetchArticlesInOrder();
 runQueryAndUpdateDOM();
