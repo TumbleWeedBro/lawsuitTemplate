@@ -1,4 +1,4 @@
-import { readData } from './readingresponse.js';
+import { readData } from '../public/readingresponse.js';
 
 function generateCards(data) {
   console.log(data[0])
