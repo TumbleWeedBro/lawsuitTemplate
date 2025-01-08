@@ -6,7 +6,7 @@ const latestUpdatesUrl = `api.goperigon.com/v1/all?apiKey=[KEY]&from=2025-01-06&
 
 const relevantResultsUrl = `api.goperigon.com/v1/all?apiKey=[KEY]&from=2025-01-06&sourceGroup=top100&showNumResults=true&showReprints=false&paywall=false&excludeLabel=Non-news&excludeLabel=Opinion&excludeLabel=Paid News&excludeLabel=Roundup&excludeLabel=Press Release&sortBy=relevance&category=Business&q=lawsuit`; 
 
-const businessUpdatesUrl= `https://api.goperigon.com/v1/all?apiKey=${apiKey}&showReprints=false&paywall=false&sortBy=date&category=${category}&topic=${topic}&topic=Business Leaders&q=${query}`;
+const businessUpdatesUrl= `https://api.goperigon.com/v1/all?apiKey=${apiKey}&showReprints=false&paywall=false&sortBy=date&category=business&topic=Business Leaders`;
 
 let searchQueryParam = "";
 const searchQueryUrl = `api.goperigon.com/v1/all?apiKey=[KEY]&from=2025-01-06&sourceGroup=top100&showNumResults=true&showReprints=false&paywall=false&excludeLabel=Non-news&excludeLabel=Opinion&excludeLabel=Paid News&excludeLabel=Roundup&excludeLabel=Press Release&sortBy=relevance&q=${searchQueryParam}`;
