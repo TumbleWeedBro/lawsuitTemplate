@@ -1,16 +1,17 @@
 export async function readData(fileName) {
   try {
-    const response = await fetch(fileName);
-    if(!response.ok){
-      throw new Error(`HTTP error! status: ${response.status}`);
+    // Retrieve data from localStorage
+    const data = localStorage.getItem(fileName);
+    if (!data) {
+      throw new Error(`No data found for key: ${fileName}`);
     }
-    const data = await response.json();
-    console.log('File content', data);
-    return data;
+
+    // Parse the JSON data
+    const parsedData = JSON.parse(data);
+    console.log('File content:', parsedData);
+    return parsedData;
   } catch (error) {
-    console.error('Error fetching file:', error);
-    throw error; 
+    console.error('Error reading data from localStorage:', error);
+    throw error;
   }
 }
-
-
