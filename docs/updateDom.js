@@ -41,6 +41,7 @@ export async function runQueryAndUpdateDOM() {
       return;
     }
 
+    console.log("generating cards")
     // Generate cards using the articles
     await generateSectionCards(dataLatestUpdate.articles, "section2Card", "section2CardContainer");  // Pass only the articles to generate cards
     await generateSectionCards(dataRelevantResults.articles, "section3Card", "section3CardContainer");  // Pass only the articles to generate cards

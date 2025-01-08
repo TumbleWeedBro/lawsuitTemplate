@@ -1,3 +1,18 @@
+// export async function readData(fileName) {
+//   try {
+//     const response = await fetch(fileName);
+//     if(!response.ok){
+//       throw new Error(`Failed to fetch file: ${fileName}`);
+//     }
+//     const data = await response.json();
+//     console.log('File content', data);
+//     return data;
+//   } catch (error) {
+//     console.error('Error fetching file:', error);
+//     throw error; 
+//   }
+// }
+
 export async function readData(fileName) {
   try {
     // Retrieve data from localStorage
@@ -15,3 +30,5 @@ export async function readData(fileName) {
     throw error;
   }
 }
+
+
