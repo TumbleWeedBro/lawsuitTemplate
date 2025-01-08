@@ -36,7 +36,7 @@ export async function runQueryAndUpdateDOM() {
     const dataRelevantResults = await readData("relevantResults.json");  // Await the result from readData()
     const dataBusinessUpdates = await readData("businessUpdates.json");  // Await the result from readData()
 
-    if (!data || !data.articles) {  // Assuming 'articles' is the array in the response
+    if (!dataLatestUpdate || !data.articles) {  // Assuming 'articles' is the array in the response
       console.error('No articles found');
       return;
     }
