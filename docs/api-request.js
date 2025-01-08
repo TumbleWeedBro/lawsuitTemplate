@@ -1,7 +1,6 @@
-const apiKey = "18fadae1-3d0d--b463-46b75325369f";
-
-
 import { runQueryAndUpdateDOM } from './updateDom.js';
+
+const apiKey = "18fadae1-3d0d--b463-46b75325369f";
 
 const latestUpdatesUrl = `https://api.goperigon.com/v1/all?apiKey=${apiKey}&from=2025-01-06&sourceGroup=top100&showNumResults=true&showReprints=false&paywall=false&excludeLabel=Non-news&excludeLabel=Opinion&excludeLabel=Paid News&excludeLabel=Roundup&excludeLabel=Press Release&sortBy=date&category=Business&q=lawsuit`;
 
@@ -44,4 +43,4 @@ function storeArticles(keyName, data) {
 
 fetchArticlesInOrder();
 
-// runQueryAndUpdateDOM();
+runQueryAndUpdateDOM();
