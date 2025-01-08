@@ -43,4 +43,4 @@ function storeArticles(keyName, data) {
 
 fetchArticlesInOrder();
 
-runQueryAndUpdateDOM();
+await runQueryAndUpdateDOM();
