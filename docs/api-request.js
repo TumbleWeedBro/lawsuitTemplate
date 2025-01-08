@@ -1,4 +1,4 @@
-import {runQueryAndUpdateDOM} from 'updateDom.js';
+import {runQueryAndUpdateDOM} from './updateDom.js';
 
 const apiKey = "18fadae1-3d0d--b463-46b75325369f";
 
